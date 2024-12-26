@@ -1,4 +1,12 @@
-## Hi there 👋
+## Dr. Hassan Abuhassna is an associate professor of education at Sunway University, Malaysia. Before assuming this position, he was an assistant professor at Universiti Teknologi Malaysia (UTM) for four years, where he specialized in educational technology.
+
+Dr. Abuhassna has completed a Master's degree in instructional technology and a Ph.D. with merit in educational technology. His research is centered on electronic learning (e-learning) and massive open online courses (MOOCs).
+
+Dr. Abuhassna has made substantial contributions to the field of educational technology over the course of his career, with a plethora of publications that have been indexed in prestigious databases like Scopus and Web of Science (WoS). His contributions have been acknowledged for their integration of instructional design models with learning theories and the improvement of online learning environments.
+
+Dr. Abuhassna has been actively engaged in academic conferences in addition to his research. He was invited to speak at the International Conference on Information Technology in Education and Artificial Intelligence (ITEA) 2024, where he delivered a presentation titled "The Information Age for Education via Artificial Intelligence and Machine Learning: A Bibliometric and Systematic Literature Analysis."
+
+Dr. Abuhassna's commitment to the advancement of educational technology continues to have a significant impact on teaching and learning practices, particularly in online education. 👋
 
 <!--
 **hassanabuhassna/hassanabuhassna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
