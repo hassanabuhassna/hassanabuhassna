@@ -1,4 +1,4 @@
-## Dr. Hassan Abuhassna is an associate professor of education at Sunway University, Malaysia. Before assuming this position, he was an assistant professor at Universiti Teknologi Malaysia (UTM) for four years, where he specialized in educational technology.
+## Dr. Hassan Abuhassna is an associate professor of education, Malaysia. He was an assistant professor at Universiti Teknologi Malaysia (UTM) for four years, where he specialized in educational technology.
 
 Dr. Abuhassna has completed a Master's degree in instructional technology and a Ph.D. with merit in educational technology. His research is centered on electronic learning (e-learning) and massive open online courses (MOOCs).
 
